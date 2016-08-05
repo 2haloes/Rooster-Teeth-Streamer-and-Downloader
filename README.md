@@ -14,3 +14,5 @@ Clean everything up a bit
 
 Known issues:
 Linux support is a bit bad, I will try to fix this as quickly as possible, however, my enthernet connection decided to die on me so I can't test with different OS' and some things that didn't work in Ubuntu did work in Arch
+
+This program was created with Visual Studio Community 2015 but is also compatable with Mono-Develop if you would like to edit or complile the program for yourself
