@@ -1,4 +1,7 @@
 # Rooster-Teeth-Streamer-and-Downloader
+
+NOTE: This is not going to be updated at all, a new updated version can be found here (https://github.com/2haloes/RT-Streamer-WPF), it uses WPF instead of Winforms and the code has ben cleaned up a lot. Linux users will have to continue to use this for now but I am making a version for linux. Right now, this program works fine but I recommened switching to the updated version
+
 This is a simple frontend to FFmpeg and VLC that allows users to stream and download Rooster Teeth videos though a few different ways being, from the video id, the HTML file that can be download though most web browsers, the url of the page (Public videos only) and a web browser (Not working in Linux (Mono or Wine) and for public videos only)
 
 This program is licensed under MIT, however, there will be a version coming as soon as this hits version 1.0 that will be more of a base and can run on whatever anyone wants
